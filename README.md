@@ -1,4 +1,4 @@
-# Iran Province and City Database
+# Iran Province and City Database with GeoLocations
 
 The most comprehensive database of Iran's provinces and cities, complete with accurate geolocation data.
 
@@ -39,7 +39,7 @@ We welcome contributions from the community! If you have any improvements, corre
 
 
 ---
-# پایگاه داده استان‌ها و شهرهای ایران
+# پایگاه داده استان‌ها و شهرهای ایران به همرا مختصات جغرافیایی
 
 کامل‌ترین پایگاه داده استان‌ها و شهرهای ایران، همراه با داده‌های دقیق جغرافیایی.
 
